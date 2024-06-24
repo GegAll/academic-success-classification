@@ -35,19 +35,19 @@ This project aims to build a classification model to predict academic success ba
    ```
 
 2. Navigate to the project directory:
-  ```sh
-  cd academic-success-classification
-  ```
+   ```sh
+   cd academic-success-classification
+   ```
 
 3. Install the required dependencies:
-  ```sh
-  pip install -r requirements.txt
-  ```
+   ```sh
+   pip install -r requirements.txt
+   ```
 
 4. Run the Jupyter notebook to see the step-by-step guide:
-  ```sh
-  jupyter notebook academic_success.ipynb
-  ```
+   ```sh
+   jupyter notebook academic_success.ipynb
+   ```
 
 ## Repository Structure
 `academic_success.ipynb`: The main Jupyter notebook containing the step-by-step guide for the classification task.
