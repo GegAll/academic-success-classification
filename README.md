@@ -31,7 +31,7 @@ This project aims to build a classification model to predict academic success ba
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/academic-success-classification.git
+   git clone https://github.com/GegAll/academic-success-classification.git
    ```
 
 2. Navigate to the project directory:
